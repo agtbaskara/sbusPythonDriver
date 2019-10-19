@@ -1,4 +1,6 @@
 # sbusPythonDriver
+**This repository forked from https://framagit.org/dsimonet/sbusPythonDriver**
+
 a Python driver for the Taranis SBUS protocol
 
 derivated from
